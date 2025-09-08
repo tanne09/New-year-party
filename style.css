@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header section style */
+
+header{
+   margin: 0 auto;
+   padding: 50px 140px 50px 140px;
+    
+}
+
+.header-section{
+    background: linear-gradient(0deg, rgba(9.197244644165039, 8.92899227142334, 8.92899227142334, 1),rgba(16, 16, 16, 0) 100%), url('images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 615px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border-radius: 16px;
+}
+  
+
+.new-year-sub-title{
+    color: #FFFFFF;
+    font-family: "Merriweather", serif;
+    font-size: 32px;
+}
+
+.new-year-description{
+    color: #FFFFFF;
+    font-family: "Merriweather", serif;
+    font-size: 70px;
+    font-weight: bold;
+}
