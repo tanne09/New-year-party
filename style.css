@@ -24,7 +24,10 @@ header{
     align-items: center; 
     border-radius: 16px;
 }
-  
+
+.text-center{
+    text-align: center;
+}
 
 .new-year-sub-title{
     color: #FFFFFF;
